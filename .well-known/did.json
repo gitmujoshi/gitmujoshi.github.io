@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:gitmujoshi.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:gitmujoshi.github.io#7b9fe23e477be8b74a0b036aa9599381ed285e749bde1ddba29562de11b503db",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:gitmujoshi.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "ekt1HMeyTLlF503QkBN9za6IJxpq9-6wB_oSHnFad8U=",
+        "y": "t1cpQzwID0smMXk_D5wthyRWghKy1QQO8NnzfEVoHZE=",
+        "kid": "7b9fe23e477be8b74a0b036aa9599381ed285e749bde1ddba29562de11b503db",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
