@@ -6,15 +6,15 @@
   "id": "did:web:gitmujoshi.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:gitmujoshi.github.io#88502040153e6c21e34bd8a519fcde00d8056dc1927c189694816ce10ad2e848",
+      "id": "did:web:gitmujoshi.github.io#120c453f6d39fe0b8dfecceba8b0e7992f9bc650c2bf4001d2e448907b140877",
       "type": "JsonWebKey2020",
       "controller": "did:web:gitmujoshi.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "gluGlszNjYZDST52yuAxcymGAsBkaBogWdWAxDY7ROw=",
-        "y": "60xKfb3GVbwh3R_hG4OTt8uq1UfXE_DJoHXIGCQi8A8=",
-        "kid": "88502040153e6c21e34bd8a519fcde00d8056dc1927c189694816ce10ad2e848",
+        "x": "FFQw_IJcWPr8qZrwq48azt1hVM8JNp3nnJ0367TxUyQ=",
+        "y": "AkPYsoJhbJNqIRGwnUHQN2D3cq4MPtzlVPx8BVuzTAo=",
+        "kid": "120c453f6d39fe0b8dfecceba8b0e7992f9bc650c2bf4001d2e448907b140877",
         "alg": "ES256"
       }
     }
